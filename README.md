@@ -1,2 +1,2 @@
-# FSD
-Full Stack Development
+# AI & ML
+AI & ML
